@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: aopalliance:aopalliance:1.0">
+    <archive path="C:/apache-maven-jar/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
+  </library>
+  <library name="Maven: cglib:cglib-nodep:3.1">
+    <archive path="C:/apache-maven-jar/cglib/cglib-nodep/3.1/cglib-nodep-3.1.jar" />
+  </library>
+  <library name="Maven: com.alibaba:druid:1.0.9">
+    <archive path="C:/apache-maven-jar/com/alibaba/druid/1.0.9/druid-1.0.9.jar" />
+  </library>
+  <library name="Maven: com.alibaba:fastjson:1.2.34">
+    <archive path="C:/apache-maven-jar/com/alibaba/fastjson/1.2.34/fastjson-1.2.34.jar" />
+  </library>
+  <library name="Maven: com.fasterxml:classmate:1.3.1">
+    <archive path="C:/apache-maven-jar/com/fasterxml/classmate/1.3.1/classmate-1.3.1.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0">
+    <archive path="C:/apache-maven-jar/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.7">
+    <archive path="C:/apache-maven-jar/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.7">
+    <archive path="C:/apache-maven-jar/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.jar" />
+  </library>
+  <library name="Maven: com.github.jsqlparser:jsqlparser:0.9.5">
+    <archive path="C:/apache-maven-jar/com/github/jsqlparser/jsqlparser/0.9.5/jsqlparser-0.9.5.jar" />
+  </library>
+  <library name="Maven: com.github.pagehelper:pagehelper:5.0.1">
+    <archive path="C:/apache-maven-jar/com/github/pagehelper/pagehelper/5.0.1/pagehelper-5.0.1.jar" />
+  </library>
+  <library name="Maven: com.google.code.findbugs:jsr305:1.3.9">
+    <archive path="C:/apache-maven-jar/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:11.0.1">
+    <archive path="C:/apache-maven-jar/com/google/guava/guava/11.0.1/guava-11.0.1.jar" />
+  </library>
+  <library name="Maven: com.sun.mail:javax.mail:1.5.0">
+    <archive path="C:/apache-maven-jar/com/sun/mail/javax.mail/1.5.0/javax.mail-1.5.0.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils:1.8.3">
+    <archive path="C:/apache-maven-jar/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar" />
+  </library>
+  <library name="Maven: commons-codec:commons-codec:1.9">
+    <archive path="C:/apache-maven-jar/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" />
+  </library>
+  <library name="Maven: commons-fileupload:commons-fileupload:1.3.1">
+    <archive path="C:/apache-maven-jar/commons-fileupload/commons-fileupload/1.3.1/commons-fileupload-1.3.1.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.4">
+    <archive path="C:/apache-maven-jar/commons-io/commons-io/2.4/commons-io-2.4.jar" />
+  </library>
+  <library name="Maven: commons-lang:commons-lang:2.6">
+    <archive path="C:/apache-maven-jar/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.1.1">
+    <archive path="C:/apache-maven-jar/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+  </library>
+  <library name="Maven: dom4j:dom4j:1.6.1">
+    <archive path="C:/apache-maven-jar/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="C:/apache-maven-jar/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="Maven: javax.inject:javax.inject:1">
+    <archive path="C:/apache-maven-jar/javax/inject/javax.inject/1/javax.inject-1.jar" />
+  </library>
+  <library name="Maven: javax:javaee-api:7.0">
+    <archive path="C:/apache-maven-jar/javax/javaee-api/7.0/javaee-api-7.0.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:3.1.0">
+    <archive path="C:/apache-maven-jar/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: javax.servlet:jstl:1.2">
+    <archive path="C:/apache-maven-jar/javax/servlet/jstl/1.2/jstl-1.2.jar" />
+  </library>
+  <library name="Maven: javax.validation:validation-api:1.1.0.Final">
+    <archive path="C:/apache-maven-jar/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.11">
+    <archive path="C:/apache-maven-jar/junit/junit/4.11/junit-4.11.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.17">
+    <archive path="C:/apache-maven-jar/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:5.1.21">
+    <archive path="C:/apache-maven-jar/mysql/mysql-connector-java/5.1.21/mysql-connector-java-5.1.21.jar" />
+  </library>
+  <library name="Maven: net.sf.ehcache:ehcache-core:2.6.8">
+    <archive path="C:/apache-maven-jar/net/sf/ehcache/ehcache-core/2.6.8/ehcache-core-2.6.8.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-collections4:4.1">
+    <archive path="C:/apache-maven-jar/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.3.2">
+    <archive path="C:/apache-maven-jar/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi:3.15">
+    <archive path="C:/apache-maven-jar/org/apache/poi/poi/3.15/poi-3.15.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi-ooxml:3.9">
+    <archive path="C:/apache-maven-jar/org/apache/poi/poi-ooxml/3.9/poi-ooxml-3.9.jar" />
+  </library>
+  <library name="Maven: org.apache.poi:poi-ooxml-schemas:3.9">
+    <archive path="C:/apache-maven-jar/org/apache/poi/poi-ooxml-schemas/3.9/poi-ooxml-schemas-3.9.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-core:1.2.2">
+    <archive path="C:/apache-maven-jar/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-ehcache:1.2.2">
+    <archive path="C:/apache-maven-jar/org/apache/shiro/shiro-ehcache/1.2.2/shiro-ehcache-1.2.2.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-quartz:1.2.2">
+    <archive path="C:/apache-maven-jar/org/apache/shiro/shiro-quartz/1.2.2/shiro-quartz-1.2.2.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-spring:1.2.2">
+    <archive path="C:/apache-maven-jar/org/apache/shiro/shiro-spring/1.2.2/shiro-spring-1.2.2.jar" />
+  </library>
+  <library name="Maven: org.apache.shiro:shiro-web:1.2.2">
+    <archive path="C:/apache-maven-jar/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar" />
+  </library>
+  <library name="Maven: org.apache.xmlbeans:xmlbeans:2.3.0">
+    <archive path="C:/apache-maven-jar/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjrt:1.8.10">
+    <archive path="C:/apache-maven-jar/org/aspectj/aspectjrt/1.8.10/aspectjrt-1.8.10.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjweaver:1.8.13">
+    <archive path="C:/apache-maven-jar/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.4">
+    <archive path="C:/apache-maven-jar/org/codehaus/jackson/jackson-core-asl/1.9.4/jackson-core-asl-1.9.4.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.4">
+    <archive path="C:/apache-maven-jar/org/codehaus/jackson/jackson-mapper-asl/1.9.4/jackson-mapper-asl-1.9.4.jar" />
+  </library>
+  <library name="Maven: org.freemarker:freemarker:2.3.26-incubating">
+    <archive path="C:/apache-maven-jar/org/freemarker/freemarker/2.3.26-incubating/freemarker-2.3.26-incubating.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="C:/apache-maven-jar/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-validator:5.4.1.Final">
+    <archive path="C:/apache-maven-jar/org/hibernate/hibernate-validator/5.4.1.Final/hibernate-validator-5.4.1.Final.jar" />
+  </library>
+  <library name="Maven: org.jboss.logging:jboss-logging:3.3.0.Final">
+    <archive path="C:/apache-maven-jar/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar" />
+  </library>
+  <library name="Maven: org.mybatis.generator:mybatis-generator-core:1.3.5">
+    <archive path="C:/apache-maven-jar/org/mybatis/generator/mybatis-generator-core/1.3.5/mybatis-generator-core-1.3.5.jar" />
+  </library>
+  <library name="Maven: org.mybatis:mybatis:3.4.2">
+    <archive path="C:/apache-maven-jar/org/mybatis/mybatis/3.4.2/mybatis-3.4.2.jar" />
+  </library>
+  <library name="Maven: org.mybatis:mybatis-spring:1.3.1">
+    <archive path="C:/apache-maven-jar/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar" />
+  </library>
+  <library name="Maven: org.opensymphony.quartz:quartz:1.6.1">
+    <archive path="C:/apache-maven-jar/org/opensymphony/quartz/quartz/1.6.1/quartz-1.6.1.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.6.6">
+    <archive path="C:/apache-maven-jar/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-aop/4.2.8.RELEASE/spring-aop-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-beans/4.2.8.RELEASE/spring-beans-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context-support:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-context-support/4.2.8.RELEASE/spring-context-support-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-core/4.2.8.RELEASE/spring-core-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-expression/4.2.8.RELEASE/spring-expression-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jdbc:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-jdbc/4.2.8.RELEASE/spring-jdbc-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-test:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-test/4.2.8.RELEASE/spring-test-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-tx:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-tx/4.2.8.RELEASE/spring-tx-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-webmvc:4.2.8.RELEASE">
+    <archive path="C:/apache-maven-jar/org/springframework/spring-webmvc/4.2.8.RELEASE/spring-webmvc-4.2.8.RELEASE.jar" />
+  </library>
+  <library name="Maven: stax:stax-api:1.0.1">
+    <archive path="C:/apache-maven-jar/stax/stax-api/1.0.1/stax-api-1.0.1.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.0.b2">
+    <archive path="C:/apache-maven-jar/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+  </library>
+  <library name="jQuery-2.0.0">
+    <archive path="C:/Users/凌秋枫/.IntelliJIdea2017.3/config/javascript/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+  </library>
+</eclipse-userlibraries>
+
